@@ -1,0 +1,28 @@
+[2025-07-30 09:37:56] [info]  [11508] Apache Commons Daemon procrun (1.2.3.0 64-bit) started.
+[2025-07-30 09:37:56] [info]  [11508] Installing service 'Tomcat9' name 'Apache Tomcat 9.0 Tomcat9'.
+[2025-07-30 09:37:56] [info]  [11508] Service 'Tomcat9' installed.
+[2025-07-30 09:37:56] [info]  [11508] Apache Commons Daemon procrun finished.
+[2025-07-30 09:37:56] [info]  [24252] Apache Commons Daemon procrun (1.2.3.0 64-bit) started.
+[2025-07-30 09:37:56] [info]  [24252] Updating service...
+[2025-07-30 09:37:56] [info]  [24252] Updated service 'Tomcat9'.
+[2025-07-30 09:37:56] [info]  [24252] Finished updating service 'Tomcat9'.
+[2025-07-30 09:37:56] [info]  [24252] Apache Commons Daemon procrun finished.
+[2025-07-30 09:37:56] [info]  [ 1668] Apache Commons Daemon procrun (1.2.3.0 64-bit) started.
+[2025-07-30 09:37:56] [info]  [ 1668] Updating service...
+[2025-07-30 09:37:56] [info]  [ 1668] Updated service 'Tomcat9'.
+[2025-07-30 09:37:56] [info]  [ 1668] Finished updating service 'Tomcat9'.
+[2025-07-30 09:37:56] [info]  [ 1668] Apache Commons Daemon procrun finished.
+[2025-07-30 09:37:56] [info]  [ 3944] Apache Commons Daemon procrun (1.2.3.0 64-bit) started.
+[2025-07-30 09:37:56] [info]  [ 3944] Updating service...
+[2025-07-30 09:37:56] [info]  [ 3944] Updated service 'Tomcat9'.
+[2025-07-30 09:37:56] [info]  [ 3944] Finished updating service 'Tomcat9'.
+[2025-07-30 09:37:56] [info]  [ 3944] Apache Commons Daemon procrun finished.
+[2025-07-30 09:37:56] [info]  [10776] Apache Commons Daemon procrun (1.2.3.0 64-bit) started.
+[2025-07-30 09:37:56] [info]  [10776] Updating service...
+[2025-07-30 09:37:56] [info]  [10776] Updated service 'Tomcat9'.
+[2025-07-30 09:37:56] [info]  [10776] Finished updating service 'Tomcat9'.
+[2025-07-30 09:37:56] [info]  [10776] Apache Commons Daemon procrun finished.
+[2025-07-30 09:38:03] [info]  [22280] Apache Commons Daemon procrun (1.2.3.0 64-bit) started.
+[2025-07-30 09:38:03] [info]  [22280] Running Service 'Tomcat9'...
+[2025-07-30 09:38:03] [info]  [ 7856] Starting service...
+[2025-07-30 09:38:06] [info]  [ 7856] Service started in 2470 milliseconds.

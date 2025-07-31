@@ -1,0 +1,38 @@
+
+2025-07-30 09:38:03 Apache Commons Daemon procrun stderr initialized.
+30-Jul-2025 09:38:12.023 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.41
+30-Jul-2025 09:38:12.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 3 2020 11:43:00 UTC
+30-Jul-2025 09:38:12.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.41.0
+30-Jul-2025 09:38:12.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+30-Jul-2025 09:38:12.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+30-Jul-2025 09:38:12.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+30-Jul-2025 09:38:12.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21
+30-Jul-2025 09:38:12.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.7+8-LTS-245
+30-Jul-2025 09:38:12.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+30-Jul-2025 09:38:12.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 9.0
+30-Jul-2025 09:38:12.036 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 9.0
+30-Jul-2025 09:38:12.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 9.0
+30-Jul-2025 09:38:12.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 9.0
+30-Jul-2025 09:38:12.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 9.0\temp
+30-Jul-2025 09:38:12.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Jul-2025 09:38:12.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 9.0\conf\logging.properties
+30-Jul-2025 09:38:12.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+30-Jul-2025 09:38:12.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+30-Jul-2025 09:38:12.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+30-Jul-2025 09:38:12.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: exit
+30-Jul-2025 09:38:12.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: abort
+30-Jul-2025 09:38:12.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+30-Jul-2025 09:38:12.125 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+30-Jul-2025 09:38:12.141 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Apache Software Foundation\Tomcat 9.0\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk-21\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jdk-21.0.2.13-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Users\YourUsername\AppData\Roaming\npm;C:\Program Files\Git\cmd;C:\WINDOWS\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps;.]
+30-Jul-2025 09:38:13.149 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9090"]
+30-Jul-2025 09:38:13.635 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2383] milliseconds
+30-Jul-2025 09:38:13.809 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+30-Jul-2025 09:38:13.809 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.41]
+30-Jul-2025 09:38:13.841 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\docs]
+30-Jul-2025 09:38:14.619 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\docs] has finished in [775] ms
+30-Jul-2025 09:38:14.619 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\manager]
+30-Jul-2025 09:38:14.830 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\manager] has finished in [211] ms
+30-Jul-2025 09:38:14.830 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\ROOT]
+30-Jul-2025 09:38:14.947 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 9.0\webapps\ROOT] has finished in [117] ms
+30-Jul-2025 09:38:14.960 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9090"]
+30-Jul-2025 09:38:15.001 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1359] milliseconds
